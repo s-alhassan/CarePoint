@@ -40,18 +40,21 @@ This project was developed as part of the **CIS 422 – Human-Computer Interacti
 
 The following screenshots showcase the CarePoint prototype developed using **Axure RP**.
 
-| Get Started | Homepage |
-|--------------|----------|
-| ![Get Started](screenshots/get-started.jpg) | ![Homepage](screenshots/homepage.jpg) |
+| Get Started | Sign In |
+|-------------|---------|
+| ![Get Started](screenshots/get-started.jpg) | ![Sign In](screenshots/sign-in.jpg) |
 
-| Select Clinic | Select Doctor |
-|----------------|---------------|
-| ![Select Clinic](screenshots/clinic-selection.jpg) | ![Select Doctor](screenshots/doctor-selection.jpg) |
+| Homepage | Select Clinic |
+|----------|---------------|
+| ![Homepage](screenshots/homepage.jpg) | ![Select Clinic](screenshots/clinic-selection.jpg) |
 
-| Appointment Details | Successful Booking |
-|----------------------|--------------------|
-| ![Appointment Details](screenshots/appointment-details.jpg) | ![Successful Booking](screenshots/successful-booking.jpg) |
+| Select Doctor | Appointment Details |
+|---------------|---------------------|
+| ![Select Doctor](screenshots/doctor-selection.jpg) | ![Appointment Details](screenshots/appointment-details.jpg) |
 
+| Successful Booking |
+|--------------------|
+| ![Successful Booking](screenshots/successful-booking.jpg) |
 ---
 
 ## Repository Structure
@@ -65,6 +68,7 @@ CarePoint/
 │   └── CarePoint.pdf
 └── screenshots/
     ├── get-started.jpg
+    ├── sign-in.jpg
     ├── homepage.jpg
     ├── clinic-selection.jpg
     ├── doctor-selection.jpg
