@@ -63,8 +63,13 @@ CarePoint/
 │   └── CarePoint.rp
 ├── documentation/
 │   └── CarePoint.pdf
-├── screenshots/
-└── LICENSE
+└── screenshots/
+    ├── get-started.jpg
+    ├── homepage.jpg
+    ├── clinic-selection.jpg
+    ├── doctor-selection.jpg
+    ├── appointment-details.jpg
+    └── successful-booking.jpg
 ```
 
 ---
